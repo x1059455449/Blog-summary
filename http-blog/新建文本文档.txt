@@ -1,0 +1,6 @@
+four 首部字段P82 P88 private指令
+
+five HTTP 的缺点P135 P141中间人攻击 HTTP+ 加密 + 认证 + 完整性保护=HTTPS 
+HTTPS 通信 P154 P156SSL 和 TLS HTTP 使用的认证方式P160 Ajax 通信 CometP173 WebSocketP176
+
+SQL 注入攻击P207 HTTP 首部注入攻击OS 命令注入攻击P212 常用攻击
